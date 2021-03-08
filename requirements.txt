@@ -9,7 +9,6 @@ joblib
 jsonify
 MarkupSafe
 numpy
-pickle
 requests
 scikit-learn
 scipy
